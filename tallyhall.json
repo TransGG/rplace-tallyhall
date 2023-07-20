@@ -1,0 +1,16 @@
+{
+  "contact": "https://discord.gg/syP5qJ5",
+  "notifications": "https://broadcaster.trans.gg",
+  "templates": [
+    {
+      "name": "Tally Hall",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/876656271070208082/1131694701049827498/image.png"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
